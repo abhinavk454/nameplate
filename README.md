@@ -1,6 +1,6 @@
 ## Nameplate
 
-A new Flutter project.
+A Flutter project repo for nameplate app.
 
 ## Getting Started
 
